@@ -1,0 +1,16 @@
+{
+  "name": "parcel-three",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.91.0"
+  },
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "pacel build index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.2"
+  }
+}
